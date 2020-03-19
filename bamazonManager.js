@@ -131,7 +131,7 @@ function viewMenuOptions() {
                 name: "quantity",
                 type: "input",
                 message:
-                  "How many of this product are you adding into the invetory?"
+                  "How many of this product are you adding into the inventory?"
               }
             ])
             .then(function(answer) {
