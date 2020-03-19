@@ -30,27 +30,23 @@ To use Node.js and MySQL to create command line Node apps that use the MySQL and
 
 Open up the terminal or Git Bash window and navigate to the folder/directory for `Bamazon` where the files `bamazonCustomer.js` and `bamazonManager.js` are stored. 
 
-![Git Bash window showing Bamazon directory](images/1 navigating to cli app.PNG)
+![Git Bash window showing Bamazon directory](images/1-navigating-to-cli-app.PNG)
 
 Type the command below to open the Customer Node application, which starts up by showing the list of products currently available.
 
 ```node bamazonCustomer.js```
 
-![Git Bash window showing the Customer Node application and the list of products currently available](images/2 customer app product list 1.PNG)
+![Git Bash window showing the Customer Node application and the list of products currently available](images/2-customer-app-product-list-1.PNG)
 
 After the list is displayed, a prompt asks for the ID of the product you would like to purchase. 
 
-![Git Bash window showing the rest of the products and prompt that asks for the ID](images/3 customer app product list 2 with id prompt.PNG)
+![Git Bash window showing the rest of the products and prompt that asks for the ID](images/3-customer-app-product-list-2-with-id-prompt.PNG)
 
 We see the MySQL database table with no changes made yet. But we are about to choose ID 9 and make a change to the stock quantityby making a purchase. 
 
-![MySQL database table showing initial state of table before purchase is made](images/4 initial database table.PNG)
+![MySQL database table showing initial state of table before purchase is made](images/4-initial-database-table.PNG)
 
-5. Type the command below and the program will read the `random.txt` file and run the command and search it specifies. 
 
-```node liri.js do-what-it-says```
-
-![Git Bash window showing the do-what-it-says command running 'spotify-this-song, I Want it That Way'](images/LIRI-Bot-5.PNG)
 
 ## License
 
