@@ -64,7 +64,7 @@ The prompt asking for the ID of the desired product appears.
 
 The database table shows 50 units in stock quantity for Product ID 4.
 
-![MySQL database table showing initial state of table before another purchase is made](images/9-table-before-2nd-purchase.PNG)
+![MySQL database table showing initial state of table before another purchase is made](images/9-table-before-2nd-purchase.png)
 
 5 units of product ID 4 is inputted and the total cost is displayed. The prompt to purchase again or exit is displayed. "Exit" is chosen and the application ends.
 
@@ -76,7 +76,7 @@ The database table updates and now shows 5 units less of the product ID 4.
 
 We are now going to try to purchase more than what is in stock for product ID 10.
 
-![MySQL database table showing 25 units of product ID 10](images/12-table-before-insufficient-quantity.PNG)
+![MySQL database table showing 25 units of product ID 10](images/12-table-before-insufficient-quantity.png)
 
 27 units of the product is inputted and we are told "Insufficient Quantity!". Then, the prompt to purchase or exit then appears.
 
