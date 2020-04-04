@@ -142,7 +142,7 @@ Now, the manager wants to add a product by selecting "Add New Product".
 
 Now, the manager wants to view the products currently for sale.
 
-![Git Bash window showing the manager selecting "View Products for Sale" and a list of currently available products](28-view-products-after-added-pizza-1.PNG)
+![Git Bash window showing the manager selecting "View Products for Sale" and a list of currently available products](images/28-view-products-after-added-pizza-1.PNG)
 
 The new product is given product ID 11 and is displayed as one of the products for sale.
 
